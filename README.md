@@ -4,7 +4,7 @@ This repository contains the source code and documentation for an Automatic Stre
 In the Automatic Street Light Control System described in the repository, the Arduino microcontroller is used along with several sensors and actuators to control the street lights. The following sensors are used:
 
 # Light Dependent Resistor (LDR):
-1.  An LDR is a light sensor that changes its resistance based on the ambient light level. It is used to detect the surrounding lighting conditions. When the surroundings become dark, the resistance of the LDR increases, indicating a need for the street lights to turn on.
+An LDR is a light sensor that changes its resistance based on the ambient light level. It is used to detect the surrounding lighting conditions. When the surroundings become dark, the resistance of the LDR increases, indicating a need for the street lights to turn on.
 
 # Infrared (IR) Sensor:
 An IR sensor can be used to detect the presence of vehicles or pedestrians on the street. It helps in implementing an intelligent control system by adjusting the brightness of the street lights when movement is detected. For example, the lights can be set to dim when no activity is detected and brighten up when a vehicle or pedestrian is detected.

@@ -13,20 +13,20 @@ Apart from the sensors, the system also utilizes LEDs (Light Emitting Diodes) as
 
 Overall, the LDR is primarily responsible for detecting ambient light levels, while the IR sensor can be used for intelligent control based on movement. The Arduino board processes the sensor data and controls the LEDs accordingly to achieve automatic street light control.
 
-#Features
+# Features
 
 Automatic On/Off: The system uses sensors to detect ambient lighting conditions and automatically turns on or off the street lights accordingly.
 Intelligent Control: The control algorithm adjusts the brightness of the street lights based on the level of darkness in the surroundings, ensuring adequate illumination while minimizing energy wastage.
 Time-based Scheduling: The system can be programmed to operate according to predefined time schedules. For example, the lights can be set to turn on at sunset and turn off at sunrise.
 
-Prerequisites
+# Prerequisites
 
 Before using the Automatic Street Light Control System, the following prerequisites should be met:
 Microcontroller board (e.g., Arduino, Raspberry Pi) with appropriate sensors and actuators.
 Development environment and toolchain set up for the chosen microcontroller.
 Required libraries and dependendcies installed.
 
-Contributing
+# Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please submit a pull request or open an issue in the repository.
 

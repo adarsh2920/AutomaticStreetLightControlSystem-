@@ -13,7 +13,7 @@ Apart from the sensors, the system also utilizes LEDs (Light Emitting Diodes) as
 
 Overall, the LDR is primarily responsible for detecting ambient light levels, while the IR sensor can be used for intelligent control based on movement. The Arduino board processes the sensor data and controls the LEDs accordingly to achieve automatic street light control.
 
-##Features
+#Features
 
 Automatic On/Off: The system uses sensors to detect ambient lighting conditions and automatically turns on or off the street lights accordingly.
 Intelligent Control: The control algorithm adjusts the brightness of the street lights based on the level of darkness in the surroundings, ensuring adequate illumination while minimizing energy wastage.
